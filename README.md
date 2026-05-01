@@ -1,4 +1,5 @@
 Crowdfunding Analysis Dashboard
+
 Project Overview
 This project focuses on analyzing crowdfunding data to identify key factors that contribute to the success or failure of various campaigns. By leveraging data visualization and statistical analysis, the dashboard provides actionable insights into project outcomes, funding trends, and geographical performance.
 <img width="1176" height="564" alt="image" src="https://github.com/user-attachments/assets/19011636-a22d-4a61-a70f-965782cc52e1" />
